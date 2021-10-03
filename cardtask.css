@@ -31,6 +31,7 @@ width: 820px;
     text-align: center;
     font-size: 23px;
     font-family: 'Lobster', cursive;
+    outline:none;
     
    
    
@@ -102,6 +103,7 @@ margin-left: 3px;
     text-align: center;
     font-size: 23px;
     font-family: 'Lobster', cursive;
+     outline:none;
     
     
 }
@@ -119,6 +121,7 @@ margin-left: 3px;
     text-align: center;
     font-size: 23px;
     font-family: 'Lobster', cursive;
+     outline:none;
     
 }
 
@@ -134,6 +137,7 @@ margin-left: 3px;
     text-align: center;
     font-size: 23px;
     font-family: 'Lobster', cursive;
+     outline:none;
     
 }
 
@@ -150,6 +154,7 @@ margin-left: 3px;
     font-size: 23px;
     font-family: 'Lobster', cursive;
     width:180px;
+     outline:none;
     
 }
 
@@ -166,6 +171,7 @@ margin-left: 3px;
     font-family: 'Lobster', cursive;
     font-size:23px;
     width: 140px;
+     outline:none;
     
 }
 
