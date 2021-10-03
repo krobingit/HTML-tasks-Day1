@@ -1,0 +1,133 @@
+:root{
+    font-size:10px;
+}
+
+
+.task4{
+width: 40rem;
+height:45rem;
+border:0.1rem solid black;
+display:inline-block;
+}
+ul{
+    font-size:2rem;
+}
+.nest{
+    font-size:1.9rem;
+    list-style-type: lower-alpha;
+}
+
+.task5{
+    width: 40em;
+    height: 20rem;
+    border:0.1rem solid black;
+    margin-left: 20rem;
+    display: inline-block;
+    
+}
+
+.google{
+
+    color:blue;
+    font-size: 3rem;
+    text-decoration: none;
+}
+.google:visited{
+    color: purple;
+    
+}
+.google:hover{
+    color:navy;
+}
+.task6{
+   width:60rem;
+   height:40rem;
+    border:0.1rem solid black;
+    display: block;
+    padding:5rem;
+}
+
+.field{
+
+    
+    width: 50rem;
+    height: 10rem;
+    padding:2rem;
+    border: 0.2rem solid black;
+}
+.typeOfEmployee{
+    font-size: 2rem;
+}
+.emp{
+
+    font-size: 2rem;
+
+}
+
+.rad{
+
+    margin-bottom: 1rem;
+}
+.task8{
+    width: 65rem;
+    height:50rem;
+     border:0.1rem solid black;
+     display: block;
+     padding:5rem;
+ }
+
+table,td,th{
+
+    border: 0.2rem solid black;
+    font-size: 2rem;
+    border-collapse: collapse;
+    margin:5rem;
+    width:55rem;
+    height: 5rem;
+    padding:1rem;
+    
+}
+
+.task10{
+
+    width: 35rem;
+    height:25rem;
+    border: 1px solid black;
+
+}
+
+.task9{
+    width: 65rem;
+    height:50rem;
+     border:0.1rem solid black;
+     display: block;
+     padding:2rem;
+}
+
+.form{
+    display: block;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+#football,#crkt{
+    display: inline;
+}
+
+.form{
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.task1{
+    width: 70rem;
+    height:50rem;
+    border: 1px solid black;
+}
+
+#imgsol{
+
+    padding:5rem;
+}

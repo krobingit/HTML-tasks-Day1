@@ -1,0 +1,35 @@
+:root{
+    font-size: 10px;
+}
+p{
+    font-size: 2rem;
+}
+.navdiv{
+    margin: 5rem;
+}
+
+.nav{
+
+    width: 80rem;
+    height: 10rem;
+    background-image: linear-gradient(to right top, #306a9f, #4e67a5, #6c61a6, #885aa1, #a15195, #bb4a82, #cc4969, #d3524d, #cc6d26, #b28b00, #85a60d, #2ebc4e);
+    list-style-type: none;
+    
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover{
+color:rgb(20, 20, 240);
+}
+a:visited{
+    color:black;
+}
+.nav li{
+    display: inline-block;
+    padding: 3.5rem;
+    font-size:2.5rem;
+    font-weight: bold ;
+}

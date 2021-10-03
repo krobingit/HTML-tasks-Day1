@@ -1,0 +1,107 @@
+:root{
+
+    font-size: 8px;
+}
+
+
+.contactform{
+    
+    height:80rem;
+    width: 80rem;
+
+ background-image: linear-gradient(to right top, #0b8c97, #009f99, #00b18a, #00c06b, #48cd3b);
+    border-radius: 1rem;
+    margin: 20rem;
+    margin-top: 10rem;
+    padding:4rem;
+    font-family: serif;
+   
+}
+
+.head{
+
+    font-size: 5rem;
+    text-align: center;
+    color: rgb(4, 24, 63);
+    text-decoration:double;
+    letter-spacing: 0.3rem;
+}
+
+
+.contactform p{
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: serif;
+}
+.firstname{
+    
+    margin-top: 1rem;
+    margin-left: 19rem;
+    width:38rem;
+    height: 3rem;
+    background: #f1f1f1;
+  outline: none;
+  border: 1px solid #DDDDDD;
+  padding: 0.8rem;
+  font-size: 2rem;
+  font-family: serif;
+}
+
+.lastname,.email,.subject{
+    
+    margin-top:4rem;
+    margin-left: 19rem;
+    width: 38rem;
+    height: 3rem;
+    background: #f1f1f1;
+    outline: none;
+  border: 1px solid #DDDDDD;
+  padding: 0.8rem;
+  font-size: 2rem;
+  font-family: serif;
+    
+}
+
+
+
+.message{
+
+    display: block;
+    margin-top: 4rem;
+    margin-left: 19rem;
+    width: 38rem;
+    height: 10rem;
+    resize: none;
+    border-radius:1rem;
+    background: #f1f1f1;
+    outline: none;
+  border: 1px solid #DDDDDD;
+  padding: 1.2rem;
+  font-size: 2rem;
+  font-family: serif;
+}
+
+.finish{
+
+    display: block;
+    margin-top: 4rem;
+    margin-left: 20rem;
+    width: 38rem;
+    height: 5rem;
+    background-color:#a4ecea;
+    font-size: 2rem;
+    color: rgb(4, 24, 63);
+    outline: none;
+  border: 1px solid #DDDDDD;
+ 
+
+}
+
+.finish:hover{
+
+    background-color: rgb(67, 219, 67);
+
+}
+.line{
+  color: grey;
+}
